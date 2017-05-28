@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pisos\piso-nivel1.png</Source>
+      <Name>Pisos\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb</Output>
+      <Time>2013-11-07T13:49:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pisos\piso-nivel2.png</Source>
+      <Name>Pisos\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb</Output>
+      <Time>2013-11-07T13:49:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pisos\piso-nivel3.png</Source>
+      <Name>Pisos\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb</Output>
+      <Time>2013-11-07T13:49:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Monedas\1.png</Source>
+      <Name>Monedas\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb</Output>
+      <Time>2013-10-16T12:43:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Monedas\2.png</Source>
+      <Name>Monedas\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb</Output>
+      <Time>2013-10-16T12:43:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Monedas\3.png</Source>
+      <Name>Monedas\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb</Output>
+      <Time>2013-10-16T12:43:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Monedas\4.png</Source>
+      <Name>Monedas\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb</Output>
+      <Time>2013-10-16T12:44:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dardo.png</Source>
+      <Name>Dardo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb</Output>
+      <Time>2013-10-16T12:43:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pinche.png</Source>
+      <Name>Pinche</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb</Output>
+      <Time>2013-10-16T12:43:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corazon.png</Source>
+      <Name>Corazon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb</Output>
+      <Time>2013-10-19T17:13:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Poderes\llave.png</Source>
+      <Name>Poderes\llave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb</Output>
+      <Time>2013-10-20T15:50:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Poderes\icono-invisible.png</Source>
+      <Name>Poderes\Invisible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb</Output>
+      <Time>2013-10-20T15:50:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Poderes\icono-jetpack.png</Source>
+      <Name>Poderes\Vuelo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb</Output>
+      <Time>2013-10-20T15:50:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Poderes\icono-nuevavida.png</Source>
+      <Name>Poderes\Vida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb</Output>
+      <Time>2013-10-20T15:50:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>dardo-arriba.png</Source>
+      <Name>dardo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb</Output>
+      <Time>2013-11-01T10:11:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pandamuj1.png</Source>
+      <Name>pandamuj1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb</Output>
+      <Time>2013-11-05T14:21:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pandamuj2.png</Source>
+      <Name>pandamuj2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb</Output>
+      <Time>2013-11-05T14:21:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Nubes\nubes-nivel1.png</Source>
+      <Name>Nubes\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb</Output>
+      <Time>2013-11-07T14:06:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cartel.png</Source>
+      <Name>cartel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb</Output>
+      <Time>2013-11-08T10:42:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Ganaste.png</Source>
+      <Name>Ganaste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb</Output>
+      <Time>2013-11-08T11:13:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Poderes\bandera.png</Source>
+      <Name>Poderes\Bandera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb</Output>
+      <Time>2013-11-08T11:50:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\Jetpack\1.png</Source>
+      <Name>Panda\Jetpack\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb</Output>
+      <Time>2014-01-28T11:56:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\Jetpack\2.png</Source>
+      <Name>Panda\Jetpack\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb</Output>
+      <Time>2014-01-28T11:56:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\Jetpack\3.png</Source>
+      <Name>Panda\Jetpack\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb</Output>
+      <Time>2014-01-28T11:56:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataforma\plataforma-nivel1.png</Source>
+      <Name>Plataforma\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb</Output>
+      <Time>2014-02-04T19:44:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Move.png</Source>
+      <Name>Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb</Output>
+      <Time>2014-02-04T19:47:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\menuprincipalfondo.png</Source>
+      <Name>Menu Principal\FondoGeneral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb</Output>
+      <Time>2013-11-06T22:32:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\mouse.png</Source>
+      <Name>Menu Principal\mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb</Output>
+      <Time>2013-11-08T10:41:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Instrucciones\1.png</Source>
+      <Name>Menu Principal\Instrucciones\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb</Output>
+      <Time>2014-02-05T00:51:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Instrucciones\2.png</Source>
+      <Name>Menu Principal\Instrucciones\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb</Output>
+      <Time>2014-02-05T00:51:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Instrucciones\Anterior.png</Source>
+      <Name>Menu Principal\Instrucciones\Anterior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb</Output>
+      <Time>2014-02-05T00:51:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Instrucciones\Siguiente.png</Source>
+      <Name>Menu Principal\Instrucciones\Siguiente</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb</Output>
+      <Time>2014-02-05T00:51:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\+.png</Source>
+      <Name>Menu Principal\Volumen\+</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\-.png</Source>
+      <Name>Menu Principal\Volumen\-</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\0.png</Source>
+      <Name>Menu Principal\Volumen\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\1.png</Source>
+      <Name>Menu Principal\Volumen\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\2.png</Source>
+      <Name>Menu Principal\Volumen\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\3.png</Source>
+      <Name>Menu Principal\Volumen\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\4.png</Source>
+      <Name>Menu Principal\Volumen\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\5.png</Source>
+      <Name>Menu Principal\Volumen\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\6.png</Source>
+      <Name>Menu Principal\Volumen\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\7.png</Source>
+      <Name>Menu Principal\Volumen\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\8.png</Source>
+      <Name>Menu Principal\Volumen\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb</Output>
+      <Time>2014-02-05T00:53:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Volumen\9.png</Source>
+      <Name>Menu Principal\Volumen\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb</Output>
+      <Time>2014-05-31T23:10:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\fondo-nivel1.png</Source>
+      <Name>Fondo\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb</Output>
+      <Time>2014-02-15T00:22:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\Cielos\cielo-nivel1.png</Source>
+      <Name>Fondo\Cielos\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb</Output>
+      <Time>2014-02-15T00:22:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataforma\plataforma-nivel2.png</Source>
+      <Name>Plataforma\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb</Output>
+      <Time>2014-02-16T10:51:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\Cielos\cielo-nivel3.png</Source>
+      <Name>Fondo\Cielos\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb</Output>
+      <Time>2014-03-17T19:34:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\fondo-nivel3.png</Source>
+      <Name>Fondo\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb</Output>
+      <Time>2014-03-17T19:34:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataforma\plataforma-nivel3.png</Source>
+      <Name>Plataforma\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb</Output>
+      <Time>2014-03-17T19:39:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\Cielos\cielo-nivel2.png</Source>
+      <Name>Fondo\Cielos\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb</Output>
+      <Time>2014-05-11T17:35:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Nubes\nubes-nivel2.png</Source>
+      <Name>Nubes\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb</Output>
+      <Time>2014-05-11T17:44:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\1 -flechas.png</Source>
+      <Name>Carteles\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\2 -salto.png</Source>
+      <Name>Carteles\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\3 -monedas.png</Source>
+      <Name>Carteles\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\4 -cazadores.png</Source>
+      <Name>Carteles\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\5 -invisible.png</Source>
+      <Name>Carteles\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\6 -jetpack.png</Source>
+      <Name>Carteles\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carteles\7 -vidas.png</Source>
+      <Name>Carteles\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb</Output>
+      <Time>2014-05-11T18:16:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\fondo-nivel2.png</Source>
+      <Name>Fondo\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb</Output>
+      <Time>2014-05-17T21:38:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Nubes\nubes-nivel3.png</Source>
+      <Name>Nubes\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb</Output>
+      <Time>2014-05-25T15:26:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\1.png</Source>
+      <Name>Panda\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\9.png</Source>
+      <Name>Panda\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\2.png</Source>
+      <Name>Panda\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\3.png</Source>
+      <Name>Panda\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\4.png</Source>
+      <Name>Panda\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\5.png</Source>
+      <Name>Panda\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\6.png</Source>
+      <Name>Panda\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\7.png</Source>
+      <Name>Panda\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda\8.png</Source>
+      <Name>Panda\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb</Output>
+      <Time>2014-05-31T20:11:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Nivel\icono1.png</Source>
+      <Name>Menu Principal\Nivel\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb</Output>
+      <Time>2014-05-31T23:03:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Nivel\icono2.png</Source>
+      <Name>Menu Principal\Nivel\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb</Output>
+      <Time>2014-05-31T23:08:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Nivel\icono3.png</Source>
+      <Name>Menu Principal\Nivel\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb</Output>
+      <Time>2014-05-31T23:08:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\nuevo-fondo-definitivo-1.png</Source>
+      <Name>Menu Principal\fondo 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb</Output>
+      <Time>2014-06-11T11:48:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\nuevo-fondo-definitivo-2.png</Source>
+      <Name>Menu Principal\fondo 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb</Output>
+      <Time>2014-06-11T11:48:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cazador\1.png</Source>
+      <Name>Cazador\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb</Output>
+      <Time>2014-06-11T13:17:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cazador\2.png</Source>
+      <Name>Cazador\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb</Output>
+      <Time>2014-06-11T13:17:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cazador\3.png</Source>
+      <Name>Cazador\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb</Output>
+      <Time>2014-06-11T13:17:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Fuentes\Calibri.spritefont</Source>
+      <Name>Menu Principal\Fuentes\Calibri</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb</Output>
+      <Time>2014-06-03T21:27:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Principal\Fuentes\Titulo.spritefont</Source>
+      <Name>Menu Principal\Fuentes\Titulo</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb</Output>
+      <Time>2014-06-03T21:31:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\146730__fins__shoot.wav</Source>
+      <Name>Sonidos\shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\171497__fins__error.wav</Source>
+      <Name>Sonidos\hurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\171673__fins__failure-1.wav</Source>
+      <Name>Sonidos\failure</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\173324__soundnimja__coin-3.wav</Source>
+      <Name>Sonidos\coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\187024__lloydevans09__jump2.wav</Source>
+      <Name>Sonidos\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\43697__notchfilter__game-over02.wav</Source>
+      <Name>Sonidos\cazador</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\56394__oliver-eye__jcrash1.wav</Source>
+      <Name>Sonidos\cymball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\76234__jivatma07__level-up-3note2.wav</Source>
+      <Name>Sonidos\power</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Corona - Rhythm of the Night (mp3cut.net).wav</Source>
+      <Name>Sonidos\river</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\POL-antique-market-short.wav</Source>
+      <Name>Sonidos\menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\POL-cave-story-short.wav</Source>
+      <Name>Sonidos\fondo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Salvar panda.wav</Source>
+      <Name>Sonidos\Salvar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb</Output>
+      <Time>2014-06-03T21:41:04-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Wuu2\Proyecto\ProyectoContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Wuu2\Proyecto\Proyecto\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Wuu2\Proyecto\ProyectoContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-06T00:11:02.6000044-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

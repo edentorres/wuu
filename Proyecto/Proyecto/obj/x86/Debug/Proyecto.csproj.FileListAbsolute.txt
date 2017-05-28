@@ -1,0 +1,1466 @@
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\3.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\4.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\5.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\6.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\7.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\8.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\9.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Coin.xnb
+C:\Users\Eden\Desktop\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+F:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Proyecto2\Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+G:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+F:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Proyecto 3\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\New Folder\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New Folder\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\New Folder\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+H:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+F:\Proyect\New Folder\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+F:\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+F:\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+F:\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Tobias\Desktop\1111Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\1.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\2.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\3.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Tobias\Downloads\Proyecto_Poderes-2013-11-02\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo2.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.exe
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Proyecto.pdb
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+G:\Proyect\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Anterior.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Siguiente.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\+.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\-.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\0.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\4.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\5.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\6.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\7.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\8.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\9.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FondoGeneral.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonido.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonido.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Anterior.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Siguiente.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\+.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\-.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\0.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\4.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\5.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\6.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\7.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\8.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\9.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FondoGeneral.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+H:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move2.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+F:\Proyect\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Anterior.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Siguiente.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\+.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\-.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\0.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\4.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\5.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\6.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\7.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\8.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\9.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FondoGeneral.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move2.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonido.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+G:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\10.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\principal.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cielo.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\nube.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Piso.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cursor_arrow.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Anterior.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Instrucciones\Siguiente.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\+.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\-.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\0.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\4.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\5.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\6.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\7.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\8.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Volumen\9.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nivel\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FondoGeneral.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move2.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Arial.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\FuentePanda.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonido.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Coin.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+H:\Proyect\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Llave.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Failure.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Jump.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Shoot.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Hurt.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Cymball.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Fondo.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Menu.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Power.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\nubes-nivel1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+C:\Users\Eden\Desktop\Final\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\nubes-nivel1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+F:\Proyecto Poderes\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+F:\Proyecto Poderes\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\12.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\nubes-nivel1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+C:\Documents and Settings\Administrador\Escritorio\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+F:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+H:\Wuu\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+H:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+F:\Wuu\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+F:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+F:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pisos\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Monedas\4.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Dardo.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Pinche.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Corazon.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\llave.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Invisible.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vuelo.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Vida.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\dardo2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\pandamuj2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\cartel.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Ganaste.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Poderes\Bandera.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\Jetpack\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Move.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\FondoGeneral.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\mouse.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Anterior.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Instrucciones\Siguiente.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\+.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\-.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\0.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\4.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\5.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\6.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\7.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\8.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Volumen\9.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Plataforma\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\Cielos\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\4.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\5.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\6.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Carteles\7.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Fondo\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Nubes\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\9.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\4.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\5.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\6.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\7.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Panda\8.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Nivel\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\fondo 2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\1.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\2.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Cazador\3.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Calibri.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Menu Principal\Fuentes\Titulo.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\shoot.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\hurt.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\failure.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\coin.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\jump.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cazador.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\cymball.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\power.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\river.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\menu.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\fondo.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Content\Sonidos\Salvar.xnb
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe.manifest
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.application
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.exe
+H:\Wuu2\Proyecto\Proyecto\bin\x86\Debug\Wuu.pdb
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe.manifest
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.application
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.exe
+H:\Wuu2\Proyecto\Proyecto\obj\x86\Debug\Wuu.pdb
